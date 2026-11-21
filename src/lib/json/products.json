@@ -1,0 +1,64 @@
+[
+    {
+        "id": 1,
+        "image":"/products/hoodie-2.png",
+                "images":["/products/t-shirt-2.png","/products/cap-2.png","/products/cap-2.png"],
+
+        "name":"Hoodie",
+        "price":"$99.99",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt",
+        "category":"hoodies"
+    },
+
+     {
+        "id": 2,
+        "image":"/products/jacket-2.png",
+                "images":["/products/t-shirt-2.png","/products/cap-2.png","/products/cap-2.png"],
+
+        "name":"Jacket",
+        "price":"$149.99",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt",
+        "category":"jackets"
+    },
+
+  {
+        "id": 3,
+        "image":"/products/pant-2.png",
+                "images":["/products/t-shirt-2.png","/products/cap-2.png","/products/cap-2.png"],
+
+        "name":"pant",
+        "price":"$79.99",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt",
+        "category":"pants"
+    } ,  
+
+     {
+        "id": 4,
+        "image":"/products/t-shirt-2.png",
+        "images":["/products/t-shirt-2.png","/products/cap-2.png","/products/cap-2.png"],
+        "name":"T-Shirt",
+        "price":"$29.99",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt",
+        "category":"t-shirts"
+    } ,
+    {
+        "id": 5,
+        "image":"/products/cap-2.png",
+                "images":["/products/t-shirt-2.png","/products/cap-2.png","/products/cap-2.png"],
+
+        "name":"Cap",
+        "price":"$19.99",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt",
+        "category":"caps"
+    }
+    ,   {
+        "id": 6,
+        "image":"/products/cap-2.png",
+                "images":["/products/t-shirt-2.png","/products/cap-2.png","/products/cap-2.png"],
+
+        "name":"Cap",
+        "price":"$19.99",
+        "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed do eiusmod tempor incididunt",
+        "category":"caps"
+    }  
+]
